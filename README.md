@@ -208,4 +208,3 @@ Visit our live platform at [https://fxpenguin.com](https://fxpenguin.com)
 **Built with ❤️ by Hreff for FXPenguin**
 
 *Connecting traders with trusted brokers, one review at a time.*
-
